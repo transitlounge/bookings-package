@@ -1,0 +1,17 @@
+{
+    "name": "transitlounge/bookings",
+    "description": "A simple transitlounge booking package",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Transitlounge\\Bookings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Transitlounge",
+            "email": "info@transitlounge.one"
+        }
+    ],
+    "require": {}
+}
