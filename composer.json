@@ -1,5 +1,5 @@
 {
-    "name": "transitlounge/bookings",
+    "name": "transitlounge/bookings-package",
     "description": "A simple transitlounge booking package",
     "type": "project",
     "autoload": {

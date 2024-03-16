@@ -1,6 +1,6 @@
 <?php
 
-namespace TransitLounge\Website;
+namespace TransitLounge\Bookings;
 
 
 use Illuminate\Support\ServiceProvider;
